@@ -2,9 +2,12 @@
 <html>
     <head>
         <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet"/>
-        <title></title>
+        <title>ChatBOX</title>
+<body background="chatbox-logo.jpg">
     </head>
-    <body>
+<h2 style="text-align:center; color:BLUE"><i>ChatBOX: The Social Media Chatbox Center</font></h5></i>
+<br><br>
+   
 
 <?php
 

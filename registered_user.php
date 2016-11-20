@@ -2,19 +2,13 @@
 <html>
     <head>
         <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet"/>
-        <title></title>
+        <title>ChatBOX</title>
+<body background="chatbox-logo.jpg">
     </head>
-    <body>
 
+<h2 style="text-align:center; color:BLUE"><i>ChatBOX: The Social Media Chatbox Center</font></h5></i>
+<br><br>
 
-
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, voluptatem, ad, commodi maiores sapiente quis atque necessitatibus officia libero officiis expedita tempore id ut cum blanditiis quam magni temporibus dolor. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, voluptatem, ad, commodi maiores sapiente quis atque necessitatibus officia libero officiis expedita tempore id ut cum blanditiis quam magni temporibus dolor. <br><br>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, voluptatem, ad, commodi maiores sapiente quis atque necessitatibus officia libero officiis expedita tempore id ut cum blanditiis quam magni temporibus dolor. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, voluptatem, ad, commodi maiores sapiente quis atque necessitatibus officia libero officiis expedita tempore id ut cum blanditiis quam magni temporibus dolor. <br><br>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, voluptatem, ad, commodi maiores sapiente quis atque necessitatibus officia libero officiis expedita tempore id ut cum blanditiis quam magni temporibus dolor. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, voluptatem, ad, commodi maiores sapiente quis atque necessitatibus officia libero officiis expedita tempore id ut cum blanditiis quam magni temporibus dolor. <br><br>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, voluptatem, ad, commodi maiores sapiente quis atque necessitatibus officia libero officiis expedita tempore id ut cum blanditiis quam magni temporibus dolor. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, voluptatem, ad, commodi maiores sapiente quis atque necessitatibus officia libero officiis expedita tempore id ut cum blanditiis quam magni temporibus dolor. <br><br>
 
 
 
@@ -41,8 +35,8 @@ $page_id = 1;
 $settings = array(
 	'public' => 0,
 	'user_details' => array(
-		'name' => 'MyUsername',
-		'email' => 'admin@google.com'
+		'name' => 'yhana',
+		'email' => 'leyanapaulabulanhagui@yahoo.com'
 		)
 	);
 
