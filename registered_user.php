@@ -6,7 +6,7 @@
 <body background="chatbox-logo.jpg">
     </head>
 
-<h2 style="text-align:center; color:BLUE"><i>ChatBOX: The Social Media Chatbox Center</font></h5></i>
+<h2 style="text-align:center; color:BLUE"><i>UzZap: The Social Media Chatbox Center</font></h5></i>
 <br><br>
 
 
